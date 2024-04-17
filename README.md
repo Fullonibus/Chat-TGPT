@@ -24,7 +24,7 @@
 - token.value= - токен телеграм-бота
 - bot.name.value - имя телеграм-бота
 
-- gemini.api.key - апи ключ для gemini
+- gemini.api.key - API ключ для gemini
 
 ### После первого запуска:
 - spring.jpa.hibernate.ddl-auto=create меняем на auto
